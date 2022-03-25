@@ -157,7 +157,7 @@ ul.nav li.current a {
     gap: 10px;
     flex-direction: row;
     cursor: pointer;
-    font-size: 12px
+    font-size: 20px
 }
 
 #login {
