@@ -142,7 +142,7 @@ ul.nav li.current a {
     justify-content: center;
     align-items: center;
     width: 130px;
-    height: 42px;
+    height: 25px;
     border: 4px solid transparent;
     border-radius: 50.0391px;
     background:
@@ -157,7 +157,7 @@ ul.nav li.current a {
     gap: 10px;
     flex-direction: row;
     cursor: pointer;
-    font-size: 24px
+    font-size: 12px
 }
 
 #login {
